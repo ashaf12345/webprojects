@@ -9,4 +9,4 @@ update readme.md with a line Github
 
 this tutorial focuse mainly on git and using github as its remote
 
-this repository is built step by step in tutorial
+
